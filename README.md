@@ -1,5 +1,7 @@
 # Análise do Campeonato Brasileiro
 
+![Capa Projeto](capa-brasileirao.png)
+
 Projeto desenvolvido em Power BI com foco em análise de desempenho das equipes do Campeonato Brasileiro.
 
 ## Objetivos do Projeto
