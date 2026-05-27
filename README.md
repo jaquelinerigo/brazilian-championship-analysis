@@ -36,3 +36,11 @@ Dashboard focado em desempenho ofensivo, estatísticas de gols, ranking de vitó
 Análise disciplinar das equipes, evolução de cartões, comportamento por período do dia e impacto da disciplina no desempenho esportivo.
 
 ![Disciplina e Desempenho](disciplina-desempenho.png)
+
+---
+
+## 📊 Insights e Contexto Histórico
+
+Análise histórica do campeonato, impacto de eventos externos e comportamento das equipes ao longo dos anos.
+
+![Insights e Contexto Histórico](insights-contexto-historico.png)
