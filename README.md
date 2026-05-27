@@ -65,3 +65,16 @@ Os gráficos possuem tooltips personalizados com indicadores complementares para
 Análise das formações mais utilizadas no campeonato, comportamento tático das equipes e impacto estratégico nos resultados das partidas.
 
 ![Inteligência Tática e Formações](inteligencia-tatica-formacoes.png)
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+- Figma
+- Modelagem de Dados
+- Storytelling com Dados
+- Visualização Analítica
