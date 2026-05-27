@@ -27,4 +27,4 @@ Projeto desenvolvido em Power BI com foco em análise de desempenho das equipes 
 
 Dashboard focado em desempenho ofensivo, estatísticas de gols, ranking de vitórias, fator casa e análise de finalizações das equipes.
 
-![Relação de Gols](RelaçãodeGols.png)
+![Relação de Gols](relacao-gols.png)
