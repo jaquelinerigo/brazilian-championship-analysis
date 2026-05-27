@@ -57,3 +57,11 @@ Indicadores gerais das partidas, desempenho técnico das equipes e comportamento
 
 Os gráficos possuem tooltips personalizados com indicadores complementares para aprofundamento analítico e exploração dinâmica dos dados.
 ![Estatísticas Operacionais](interatividade-insights.png)
+
+---
+
+## 🧠 Inteligência Tática e Formações
+
+Análise das formações mais utilizadas no campeonato, comportamento tático das equipes e impacto estratégico nos resultados das partidas.
+
+![Inteligência Tática e Formações](inteligencia-tatica-formacoes.png)
