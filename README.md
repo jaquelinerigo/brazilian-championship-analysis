@@ -44,3 +44,11 @@ Análise disciplinar das equipes, evolução de cartões, comportamento por per�
 Análise histórica do campeonato, impacto de eventos externos e comportamento das equipes ao longo dos anos.
 
 ![Insights e Contexto Histórico](insights-contexto-historico.png)
+
+---
+
+## 📈 Estatísticas Operacionais do Campeonato
+
+Indicadores gerais das partidas, desempenho técnico das equipes e comportamento operacional do campeonato ao longo das rodadas.
+
+![Estatísticas Operacionais](estatisticas-operacionais.png)
