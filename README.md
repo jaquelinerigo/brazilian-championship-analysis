@@ -52,3 +52,8 @@ Análise histórica do campeonato, impacto de eventos externos e comportamento d
 Indicadores gerais das partidas, desempenho técnico das equipes e comportamento operacional do campeonato ao longo das rodadas.
 
 ![Estatísticas Operacionais](estatisticas-operacionais.png)
+
+### 🔍 Interatividade dos gráficos
+
+Os gráficos possuem tooltips personalizados com indicadores complementares para aprofundamento analítico e exploração dinâmica dos dados.
+![Estatísticas Operacionais](interatividade-insights.png)
