@@ -28,3 +28,11 @@ Projeto desenvolvido em Power BI com foco em análise de desempenho das equipes 
 Dashboard focado em desempenho ofensivo, estatísticas de gols, ranking de vitórias, fator casa e análise de finalizações das equipes.
 
 ![Relação de Gols](relacao-gols.png)
+
+---
+
+## 🟨 Disciplina e Desempenho
+
+Análise disciplinar das equipes, evolução de cartões, comportamento por período do dia e impacto da disciplina no desempenho esportivo.
+
+![Disciplina e Desempenho](disciplina-desempenho.png)
