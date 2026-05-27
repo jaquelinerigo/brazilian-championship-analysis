@@ -78,3 +78,17 @@ Análise das formações mais utilizadas no campeonato, comportamento tático da
 - Modelagem de Dados
 - Storytelling com Dados
 - Visualização Analítica
+
+---
+
+## 🔍 Principais Insights
+
+- Equipes mandantes apresentaram maior taxa de vitórias, reforçando a influência do fator casa no campeonato.
+
+- O volume de cartões variou significativamente entre as temporadas, indicando mudanças no comportamento disciplinar das equipes ao longo dos anos.
+
+- Determinadas formações táticas demonstraram maior recorrência em vitórias, sugerindo impacto estratégico no desempenho das partidas.
+
+- Os horários das partidas influenciaram indicadores operacionais como quantidade de faltas, intensidade ofensiva e comportamento disciplinar.
+
+- Eventos históricos e contextuais apresentaram reflexos nos indicadores do campeonato, impactando quantidade de partidas, gols e desempenho das equipes.
