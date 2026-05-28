@@ -1,6 +1,7 @@
 # Análise do Campeonato Brasileiro
 
-![Capa Projeto](capa-brasileirao.png)
+![Capa Projeto](assets/capa-brasileirao.png)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![DAX](https://img.shields.io/badge/DAX-1F77B4?style=for-the-badge)
@@ -40,7 +41,7 @@ Projeto desenvolvido em Power BI com foco em análise de desempenho das equipes 
 
 Dashboard focado em desempenho ofensivo, estatísticas de gols, ranking de vitórias, fator casa e análise de finalizações das equipes.
 
-![Relação de Gols](relacao-gols.png)
+![Relação de Gols](assets/relacao-gols.png)
 
 ---
 
@@ -48,7 +49,7 @@ Dashboard focado em desempenho ofensivo, estatísticas de gols, ranking de vitó
 
 Análise disciplinar das equipes, evolução de cartões, comportamento por período do dia e impacto da disciplina no desempenho esportivo.
 
-![Disciplina e Desempenho](disciplina-desempenho.png)
+![Disciplina e Desempenho](assets/disciplina-desempenho.png)
 
 ---
 
@@ -56,7 +57,7 @@ Análise disciplinar das equipes, evolução de cartões, comportamento por per�
 
 Análise histórica do campeonato, impacto de eventos externos e comportamento das equipes ao longo dos anos.
 
-![Insights e Contexto Histórico](insights-contexto-historico.png)
+![Insights e Contexto Histórico](assets/insights-contexto-historico.png)
 
 ---
 
@@ -64,12 +65,12 @@ Análise histórica do campeonato, impacto de eventos externos e comportamento d
 
 Indicadores gerais das partidas, desempenho técnico das equipes e comportamento operacional do campeonato ao longo das rodadas.
 
-![Estatísticas Operacionais](estatisticas-operacionais.png)
+![Estatísticas Operacionais](assets/estatisticas-operacionais.png)
 
 ### 🔍 Interatividade dos gráficos
 
 Os gráficos possuem tooltips personalizados com indicadores complementares para aprofundamento analítico e exploração dinâmica dos dados.
-![Estatísticas Operacionais](interatividade-insights.png)
+![Estatísticas Operacionais](assets/interatividade-insights.png)
 
 ---
 
@@ -77,7 +78,7 @@ Os gráficos possuem tooltips personalizados com indicadores complementares para
 
 Análise das formações mais utilizadas no campeonato, comportamento tático das equipes e impacto estratégico nos resultados das partidas.
 
-![Inteligência Tática e Formações](inteligencia-tatica-formacoes.png)
+![Inteligência Tática e Formações](assets/inteligencia-tatica-formacoes.png)
 
 ---
 
