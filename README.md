@@ -35,13 +35,7 @@ Projeto desenvolvido em Power BI com foco em análise de desempenho das equipes 
 - Disciplina das equipes
 - Aproveitamento mandante x visitante
 - Estatísticas táticas
-
-## 🚀 Dashboard Interativo
-
-O dashboard completo pode ser acessado online:
-
-➡️ [Clique aqui para visualizar o Dashboard do Campeonato Brasileiro](https://app.powerbi.com/view?r=eyJrIjoiZGFlNGZiMDQtZmY1MC00MGEwLTgyNDUtZTJiMWIxOTRkMzM3IiwidCI6ImQ3NzNiNzQxLWE4ODYtNDQxNi1hYmUwLTVjNzIzYTc5MmIzMiJ9)
-
+  
 ---
 ## ⚽ Relação de Gols
 
@@ -85,6 +79,12 @@ Os gráficos possuem tooltips personalizados com indicadores complementares para
 Análise das formações mais utilizadas no campeonato, comportamento tático das equipes e impacto estratégico nos resultados das partidas.
 
 ![Inteligência Tática e Formações](assets/inteligencia-tatica-formacoes.png)
+
+## 🚀 Dashboard Interativo
+
+O dashboard completo pode ser acessado online:
+
+➡️ [Clique aqui para visualizar o Dashboard do Campeonato Brasileiro](https://app.powerbi.com/view?r=eyJrIjoiZGFlNGZiMDQtZmY1MC00MGEwLTgyNDUtZTJiMWIxOTRkMzM3IiwidCI6ImQ3NzNiNzQxLWE4ODYtNDQxNi1hYmUwLTVjNzIzYTc5MmIzMiJ9)
 
 ---
 
