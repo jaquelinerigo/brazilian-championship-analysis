@@ -36,6 +36,12 @@ Projeto desenvolvido em Power BI com foco em análise de desempenho das equipes 
 - Aproveitamento mandante x visitante
 - Estatísticas táticas
 
+## 🚀 Dashboard Interativo
+
+O dashboard completo pode ser acessado online:
+
+➡️ [Clique aqui para visualizar o Dashboard do Campeonato Brasileiro](https://app.powerbi.com/view?r=eyJrIjoiZGFlNGZiMDQtZmY1MC00MGEwLTgyNDUtZTJiMWIxOTRkMzM3IiwidCI6ImQ3NzNiNzQxLWE4ODYtNDQxNi1hYmUwLTVjNzIzYTc5MmIzMiJ9)
+
 ---
 ## ⚽ Relação de Gols
 
